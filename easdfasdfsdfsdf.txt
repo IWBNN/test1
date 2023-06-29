@@ -1,0 +1,35 @@
+curl "https://suwings.syu.ac.kr/websquare/engine/proworks/callServletService.jsp" ^
+  -H "Accept: application/xml" ^
+  -H "Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Connection: keep-alive" ^
+  -H "Content-Type: application/xml; charset=^\^"UTF-8^\^"" ^
+  -H "Cookie: WMONID=sNzna1SUh99; _ga_DYNL5TMEGD=GS1.1.1686025106.7.1.1686031859.0.0.0; _ga=GA1.3.493509619.1678788884; _gid=GA1.3.985829484.1687995921; LANG_GUBUN=K; lastAccess=1687996191648; JSESSIONID_intranet=yJcDLtEf2GNa2KerVRSkEtPdWA77eXGPUb0ZpdGUM4ZUvcp2xdStGGhKodadbNub.d2FzX3NlcnZsZXRfZW5naW5lMg==; globalDebug=false; _gat_gtag_UA_126050803_1=1" ^
+  -H "Origin: https://suwings.syu.ac.kr" ^
+  -H "Referer: https://suwings.syu.ac.kr/websquare/websquare.html?w2xPath=/scr/academic/ac/ac03/ac03_20040323_m.xml&&w2xHome=/scr/system/&w2xDocumentRoot=" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1" ^
+  -H "submissionid: rqM0_F0" ^
+  --data-raw ^"^<rqM0_F0 task=^\^"system.commonTask^\^" action=^\^"comSelect^\^" xda=^\^"academic.ac.ac03.ac03_20040323_m_M0_F0_xda^\^" con=^\^"sudev^\^"^> ^
+
+						^<YY value=^\^"2023^\^"/^> ^
+
+						^<SHTM_CD value=^\^"10^\^"/^> ^
+
+						^<FCLT_CD value=^\^"00160^\^"/^>^
+
+						^<EDUCUR_CORS_SHYS_CD value=^\^"^\^"/^>^
+
+						^<LANG_GUBUN value=^\^"K^\^"/^>^
+
+						^
+
+						^
+
+					^</rqM0_F0^>^" ^
+  --compressed
+  
+  http://toyuq.tistory.com/228
+  https://colorscripter.com/
+  https://hyun-am-coding.tistory.com/entry/%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-DB%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0
